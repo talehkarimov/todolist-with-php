@@ -30,6 +30,7 @@ date_default_timezone_set('Asia/Baku');
                 <h1 class="mt-5 text-center">Todo List</h1>
             </div>
         </div>
+        
         <div class="row mt-3">
             <div class="col-md-6 offset-md-3">
                 <form action="?page=new_todo" method="post">
@@ -40,12 +41,6 @@ date_default_timezone_set('Asia/Baku');
                 </form>
             </div>
         </div>
-
-        <div class="row">
-            <div ">
-               
-              </div>
-            </div>
 
         <div class=" row mt-3">
                 <div class="col-md-6 offset-md-3">
